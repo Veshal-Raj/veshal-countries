@@ -16,6 +16,13 @@
   ],
   "author": "Veshal Raj",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Veshal-Raj/veshal-countries"
+  },
+  "bugs": {
+    "url": "https://github.com/Veshal-Raj/veshal-countries/issues"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
